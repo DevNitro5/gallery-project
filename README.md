@@ -28,7 +28,7 @@
   - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+<!-- - [Acknowledgements](#acknowledgements) -->
 
 <!-- OVERVIEW -->
 
@@ -36,8 +36,8 @@
 
 ![screenshot](./preview.png)
 
-- View the [live demo](https://interior-design-project-2022.netlify.app/)
-- 3rd Dev Challenges project
+- View the [live demo](https://devnitro5.github.io/gallery-project/)
+- 5th Dev Challenges project
 - Mobile first
 
 ### Built With
