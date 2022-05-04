@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://interior-design-project-2022.netlify.app/">
+    <a href="https://devnitro5.github.io/gallery-project/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/paths/responsive-web-developer/solutions">
       Solution
     </a>
     <span> | </span>
