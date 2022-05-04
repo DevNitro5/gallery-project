@@ -10,7 +10,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/paths/responsive-web-developer/solutions">
+    <a href="https://devchallenges.io/solutions/QXiH0NzEmP5elRQqa2P6">
       Solution
     </a>
     <span> | </span>
